@@ -7,3 +7,4 @@ regex==2022.9.13
 textblob==0.17.1
 tweepy==4.10.1
 wordcloud==1.8.2.2
+boto3==1.26.39
